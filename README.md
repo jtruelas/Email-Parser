@@ -1,4 +1,4 @@
-#Email Parser
+##Email Parser
 
 ### Brief Description
 This program is a simple project done in my intro CS class. It reads any type of files and extracts any potential email addresses out of it.
